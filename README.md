@@ -1,2 +1,3 @@
 # CS247_W22_Project
- Feedback Prize - Evaluating Student Writing
+## Kaggle Competition: Feedback Prize - Evaluating Student Writing
+https://www.kaggle.com/c/feedback-prize-2021
