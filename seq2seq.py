@@ -2,6 +2,7 @@
 """
     Haiying's lstm encoder-decoder
     The customized constrained-beam-search decoder is not finished
+    A basic decoder is provided
 """
 
 import numpy as np
