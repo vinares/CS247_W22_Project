@@ -3,6 +3,8 @@
 https://www.kaggle.com/c/feedback-prize-2021
 
 
-LSTM_baseline.ipynb： implement LSTM baseline model
-longformer_ner.ipynb: implement Longformer model
-seq2seq.py: implement LSTM with prior knowledge. The constrained decoder is not finished so basic decode is used instead
+LSTM_baseline.ipynb： implement LSTM baseline model 
+
+longformer_ner.ipynb: implement Longformer model 
+
+seq2seq.py: implement LSTM with prior knowledge
