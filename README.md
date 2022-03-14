@@ -7,4 +7,4 @@ LSTM_baseline.ipynb： implement LSTM baseline model
 
 longformer_ner.ipynb: implement Longformer model 
 
-seq2seq.py: implement LSTM with prior knowledge
+seq2seq.py: implement LSTM with prior knowledge (not finished)
