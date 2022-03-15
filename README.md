@@ -1,6 +1,6 @@
 # CS247_W22_Project
 ## Kaggle Competition: Feedback Prize - Evaluating Student Writing
-The Data Folder are provided by Kaggle contest, as the link below.
+The Data folder includes 15594 pieces of training texts, a csv file for their labels and 5 unlabeled texts, provided by the Kaggle contest as the link below.
 
 https://www.kaggle.com/c/feedback-prize-2021
 
