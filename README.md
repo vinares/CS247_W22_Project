@@ -1,7 +1,10 @@
 # CS247_W22_Project
 ## Kaggle Competition: Feedback Prize - Evaluating Student Writing
 The Data Folder are provided by Kaggle contest, as the link below.
+
 https://www.kaggle.com/c/feedback-prize-2021
+
+**Visualization.ipynb** presents some basic features of the dataset, done by Yuchen Liu.
 
 **BERT_baseline.ipynb** is finished by Yuchen Liu, providing fully functional word level solver of this problem. Since the Bert model limits input size to 512 tokens, the longer part of some texts are truncated. 
 
